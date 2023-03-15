@@ -1,0 +1,54 @@
+[
+  {
+    "Name": "PL-400: Microsoft Power Platform Developer",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/master/Instructions/Labs/LAB%5BPL-400%5D_Lab00_Validate_lab_environment.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/master/Instructions/Labs/LAB%5BPL-400%5D_Lab01_Data_Modeling.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/master/Instructions/Labs/LAB%5BPL-400%5D_Lab02_Model_Driven_App.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/master/Instructions/Labs/LAB%5BPL-400%5D_Lab03_Canvas_App.md",
+        "Order": 4
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/master/Instructions/Labs/LAB%5BPL-400%5D_Lab04_Client_Scripting.md",
+        "Order": 5
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/master/Instructions/Labs/LAB%5BPL-400%5D_Lab05_PCF.md",
+        "Order": 6
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/master/Instructions/Labs/LAB%5BPL-400%5D_Lab06_Plugins.md",
+        "Order": 7
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/master/Instructions/Labs/LAB%5BPL-400%5D_Lab07_Azure.md",
+        "Order": 8
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/master/Instructions/Labs/LAB%5BPL-400%5D_Lab08_Publishing_events.md",
+        "Order": 9
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/master/Instructions/Labs/LAB%5BPL-400%5D_Lab09_Custom_connectors.md",
+        "Order": 10
+      },
+            {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/master/Instructions/Labs/LAB%5BPL-400%5D_Lab10_ALM.md",
+        "Order": 11
+      },
+      
+    ]
+  }
+]
