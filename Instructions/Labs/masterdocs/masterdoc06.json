@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Plugins",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/PL-400_Microsoft-Power-Platform-Developer/azure-pass/Instructions/Labs/labintro.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/master/Instructions/Labs/LAB%5BPL-400%5D_Lab06_Plugins.md",
+        "Order": 2
+      }
+    ]
+  }
+]
