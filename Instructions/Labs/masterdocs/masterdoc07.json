@@ -1,6 +1,6 @@
 [
   {
-    "Name": "https://raw.githubusercontent.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/master/Instructions/Labs/LAB%5BPL-400%5D_Lab07_Azure.md",
+    "Name": "Azure Functions",
     "Language": "English",
     "BaseURL": "https://github.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer",
     "Files": [
@@ -9,7 +9,7 @@
         "Order": 1
       },
       {
-        "RawFilePath": "Azure Functions",
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/master/Instructions/Labs/LAB%5BPL-400%5D_Lab07_Azure.md",
         "Order": 2
       }
     ]
